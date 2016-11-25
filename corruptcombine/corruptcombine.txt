@@ -1,0 +1,9 @@
+"corruptcombine"
+{
+	"base"		"base"
+	"title"		"Corrupt Combine"
+	"maps"		"^cc_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+}

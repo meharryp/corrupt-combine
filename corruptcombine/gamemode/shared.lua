@@ -1,0 +1,5 @@
+GM.Name 		= "Corrupt Combine"
+GM.Author		= "SkidTeam"
+GM.Email 		= ""
+GM.Website 		= ""
+GM.Version 		= "0.0.1"
