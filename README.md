@@ -2,7 +2,7 @@
 A gamemode made for the garry's mod gamemode competition.
 
 #What is corrupt combine?
-Corrupt combine is a gamemode of deception in which a couple of players are possesed by sometime of evil spirit to kill off their own before they get killed.
+Corrupt combine is a gamemode of deception in which a couple of players are possesed by sometype of evil spirit to kill off their own before they are hunted down and executed. Whoever elimates who first wins a round.
 
 #Features
 Still being worked on, will update once features are added
